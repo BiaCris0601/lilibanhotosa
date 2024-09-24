@@ -124,31 +124,27 @@ padding-left: 50px;
 border-radius: 100%;
 }
 footer {
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    background-color: var(--cor3);
-    color: var(--cor4);
-    padding-top: 2%;
-    text-align: center;
+display: flex;
+justify-content: space-around;
+align-items: center;
+background-color: var(--cor3);
+color: var(--cor4);
+padding-top: 2%;
+text-align: center;
 }
-
 .rodape a {
-    font-size: 1rem;
-    color: var(--cor4);
+font-size: 1rem;
+color: var(--cor4);
 }
-
 .rodape img {
-    padding: 5%;
+padding: 5%;
 }
-
-h2 {
-    font-size: 1.3rem;
-    margin-bottom: 10px;
+.rodape h2 {
+font-size: 1.3rem;
+margin-bottom: 10px;
 }
-
-p {
-    text-align: center;
-    font-size: 1.1rem;
-    margin-bottom: 10px;
+.rodape p {
+text-align: center;
+font-size: 1.1rem;
+margin-bottom: 10px;
 }
